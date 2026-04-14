@@ -1,1 +1,1 @@
-# GitStudy
+# GitStudy 안녕하세요 부리부리 입니다. 잘부탁드려요.
